@@ -89,7 +89,7 @@ podman stop #NameContainerOrId
 podman rm #NameContainerOrId
 ```
 > [!NOTE]
-> Nessario antes parar execução do container.
+> É necessario antes parar a execução do container.
 
 ## Excluir uma image
 
@@ -98,7 +98,7 @@ podman rmi #NameImageOrId
 ```
 
 > [!NOTE]
-> Necessario antes excluir todos os containers da mesma.
+> É necessario antes excluir todos os containers da mesma.
 
 ## Executar um comando dentro de um container em execução
 
